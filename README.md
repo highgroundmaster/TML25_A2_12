@@ -1,5 +1,9 @@
 # TML Assignment # 2 - Model Stealing
 
+**Release Tag - [v1.0.0-TML25_A2_12](https://github.com/highgroundmaster/TML25_A2_12/releases/tag/v1.0.0-TML25_A2_12)**
+
+[https://github.com/highgroundmaster/TML25_A2_12/releases/tag/v1.0.0-TML25_A2_12](https://github.com/highgroundmaster/TML25_A2_12/releases/tag/v1.0.0-TML25_A2_12)
+
 | Name | ID |
 | --- | --- |
 | Rithvika Pervala | 7072443 |
